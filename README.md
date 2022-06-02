@@ -10,8 +10,12 @@ WMO ID : 12465
 Airbase Code: PL0543A
 Load Python and R libraries, activate the rpy2 pandas2ri conversion class, and connect some R functions to Python symbols.
 
+![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/CalPlotO3.png)
 ![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/Hourly_PM10.png)
 ![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/Filter_polarFreq_PM10.png)
+![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/TimeVariation_O3.png)
+![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/timePlotPM25.png)
+
 
 # [Climate Analysis Ataturk Airport(R-GSODR)](https://github.com/eminfe/ClimateAnalyse_AtaturkAirport)
 The aim of this study is to make a 30-years climate analysis for 
