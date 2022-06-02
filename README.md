@@ -10,6 +10,9 @@ WMO ID : 12465
 Airbase Code: PL0543A
 Load Python and R libraries, activate the rpy2 pandas2ri conversion class, and connect some R functions to Python symbols.
 
+![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/Hourly_PM10.png)
+![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/Filter_polarFreq_PM10.png)
+
 # [Climate Analysis Ataturk Airport(R-GSODR)](https://github.com/eminfe/ClimateAnalyse_AtaturkAirport)
 The aim of this study is to make a 30-years climate analysis for 
 Istanbul Ataturk Airport by evaluating the temperature and precipitation data from 1990 to 2020.
