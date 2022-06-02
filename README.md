@@ -10,7 +10,7 @@ WMO ID : 12465
 Airbase Code: PL0543A
 Load Python and R libraries, activate the rpy2 pandas2ri conversion class, and connect some R functions to Python symbols.
 
-![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/1.png)
+![](/images/1.png)
 ![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/CalPlotO3.png)
 ![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/Hourly_PM10.png)
 ![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/Filter_polarFreq_PM10.png)
