@@ -10,6 +10,7 @@ WMO ID : 12465
 Airbase Code: PL0543A
 Load Python and R libraries, activate the rpy2 pandas2ri conversion class, and connect some R functions to Python symbols.
 
+![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/1.png)
 ![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/CalPlotO3.png)
 ![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/Hourly_PM10.png)
 ![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/Filter_polarFreq_PM10.png)
@@ -27,6 +28,10 @@ Station name & code: Atatürk Airport & LTBA
 Country: Turkey
 
 Data were obtained from GSOD (link) database and processes using R language 
+
+![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/Figure7.png)
+![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/Figure8.png)
+![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/Figure10.png)
 
 # [Food Store OOP (Python)](https://github.com/eminfe/FoodStore_OOP-Python-)
 
@@ -63,4 +68,6 @@ Updated stock and stock value will be displayed after purchase.
 # [PM10_TimeSeries](https://github.com/eminfe/PM10_TimeSeries)
 
 This Python program would pass over all the .CSV files in the given directory, and for each of these files produce plots saved as .PNG or PDF files. Each of these plots named after its source .CSV file. (Numpy, Pandas & matplotlib libraries are used)
+
+![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/time_series.png)
 
