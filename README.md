@@ -1,7 +1,7 @@
 # Fatma_Portfolio
 Meteorological &amp; Environmental data analysis
 
-# [AirPollution-OpenAir-](https://github.com/eminfe/AirPollution-OpenAir-)
+# [Air Quality Analysis (OpenAir-rpy2)](https://github.com/eminfe/AirPollution-OpenAir-)
 The wind data from the meteorology station and the data from the air pollution measurement station were analyzed using the rpy2 library.
 
 LOCAL AIR QUALITY ANALYSIS OF LODZ GDANSK USING THE R OPENAIR PACKAGE VIA RPY2
@@ -10,7 +10,7 @@ WMO ID : 12465
 Airbase Code: PL0543A
 Load Python and R libraries, activate the rpy2 pandas2ri conversion class, and connect some R functions to Python symbols.
 
-# [ClimateAnalyse_AtaturkAirport](https://github.com/eminfe/ClimateAnalyse_AtaturkAirport)
+# [Climate Analysis Ataturk Airport(R-GSODR)](https://github.com/eminfe/ClimateAnalyse_AtaturkAirport)
 The aim of this study is to make a 30-years climate analysis for 
 Istanbul Ataturk Airport by evaluating the temperature and precipitation data from 1990 to 2020.
 
@@ -52,4 +52,8 @@ Purchase order will be displayed.
 System will update the stock by calling corresponding method. Below validations are incorporated:
 If the ordered quantity is greater than stock balance of the ordered item, system will generate ValueError – Required quantity is not available.
 Updated stock and stock value will be displayed after purchase.
+
+# [PM10_TimeSeries](https://github.com/eminfe/PM10_TimeSeries)
+
+This Python program would pass over all the .CSV files in the given directory, and for each of these files produce plots saved as .PNG or PDF files. Each of these plots named after its source .CSV file. (Numpy, Pandas & matplotlib libraries are used)
 
