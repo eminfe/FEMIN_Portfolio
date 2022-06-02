@@ -11,11 +11,11 @@ Airbase Code: PL0543A
 Load Python and R libraries, activate the rpy2 pandas2ri conversion class, and connect some R functions to Python symbols.
 
 ![](/images/1.png)
-![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/CalPlotO3.png)
-![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/Hourly_PM10.png)
-![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/Filter_polarFreq_PM10.png)
-![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/TimeVariation_O3.png)
-![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/timePlotPM25.png)
+![](/images/CalPlotO3.png)
+![](/images/Hourly_PM10.png)
+![](/images/Filter_polarFreq_PM10.png)
+![](/images/TimeVariation_O3.png)
+![](/images/timePlotPM25.png)
 
 
 # [Climate Analysis Ataturk Airport(R-GSODR)](https://github.com/eminfe/ClimateAnalyse_AtaturkAirport)
@@ -29,9 +29,9 @@ Country: Turkey
 
 Data were obtained from GSOD (link) database and processes using R language 
 
-![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/Figure7.png)
-![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/Figure8.png)
-![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/Figure10.png)
+![](/images/Figure7.png)
+![](/images/Figure8.png)
+![](/main/images/Figure10.png)
 
 # [Food Store OOP (Python)](https://github.com/eminfe/FoodStore_OOP-Python-)
 
@@ -69,5 +69,5 @@ Updated stock and stock value will be displayed after purchase.
 
 This Python program would pass over all the .CSV files in the given directory, and for each of these files produce plots saved as .PNG or PDF files. Each of these plots named after its source .CSV file. (Numpy, Pandas & matplotlib libraries are used)
 
-![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/time_series.png)
-![](https://github.com/eminfe/Fatma_Portfolio/blob/main/images/DsDuszniMOB.csv.png)
+![](/images/time_series.png)
+![](/images/DsDuszniMOB.csv.png)
